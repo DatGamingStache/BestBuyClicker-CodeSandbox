@@ -1,0 +1,59 @@
+#gameScreen {
+  border: 1px solid black;
+}
+
+#burgBucks {
+  position: absolute;
+  text-align: center;
+  border: 1px solid black;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+  width: 500px;
+  height: 350px;
+}
+
+#userSelection {
+  user-select: none;
+}
+
+#burgBuckStat {
+  user-select: none;
+  position: absolute;
+  margin: -500px 0px 0px 50px;
+}
+
+#clickMultCurrent {
+  user-select: none;
+  position: absolute;
+  margin: -150px 0px 0px 120px;
+}
+
+#clickMultNext {
+  user-select: none;
+  position: absolute;
+  margin: -130px 0px 0px 120px;
+}
+
+#clickMultCost {
+  user-select: none;
+  position: absolute;
+  margin: -110px 0px 0px 120px;
+}
+
+#autoClickerCurrent {
+  user-select: none;
+  position: absolute;
+  margin: -90px 0px 0px 300px;
+}
+
+#autoClickerNext {
+  user-select: none;
+  position: absolute;
+  margin: -70px 0px 0px 300px;
+}
+
+#autoClickerCost {
+  user-select: none;
+  position: absolute;
+  margin: -50px 0px 0px 300px;
+}
